@@ -1,8 +1,3 @@
----
-# Optional: delete this entire front-matter block if Jekyll is not used.
-title: "Privacy Policy — Soul (Therapist)"
-description: "Soul therapist app — Mindeye Solutions / Lissun"
----
 
 # Privacy Policy — Soul (Therapist mobile app)
 
